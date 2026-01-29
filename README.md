@@ -2,7 +2,9 @@
 
 [Yazi](https://github.com/sxyazi/yazi) plugin for dynamically cycling through the [linemode](https://yazi-rs.github.io/docs/configuration/yazi/#mgr.linemode) settings
 
-<TBD: screenshot>
+## Screenshot
+
+![Screenshot](/demo.gif)
 
 ## Requirements
 
